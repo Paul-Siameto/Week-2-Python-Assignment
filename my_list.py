@@ -16,7 +16,7 @@ print("My_list", my_list)
 my_list.extend([50, 60, 70])
 print("My_list", my_list)
 
-# Removin gthe last element from the list
+# Removing the last element from the list
 my_list.pop(7)
 print("My_list", my_list)
 
